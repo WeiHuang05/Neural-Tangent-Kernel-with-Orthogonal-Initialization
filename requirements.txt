@@ -1,0 +1,5 @@
+tensorflow
+jax
+neural-tangents
+numpy
+matplotlib
